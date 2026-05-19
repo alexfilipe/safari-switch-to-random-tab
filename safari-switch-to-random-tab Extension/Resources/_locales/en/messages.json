@@ -1,10 +1,10 @@
 {
     "extension_name": {
-        "message": "safari-switch-to-random-tab Extension",
+        "message": "Random Tab Switcher",
         "description": "The display name for the extension."
     },
     "extension_description": {
-        "message": "This is safari-switch-to-random-tab Extension. You should tell us what your extension does here.",
+        "message": "Switches Safari to another random tab when you click the extension button.",
         "description": "Description of what the extension does."
     }
 }
